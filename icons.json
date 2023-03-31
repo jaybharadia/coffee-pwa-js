@@ -1,11 +1,4 @@
 {
-  "name": "Dev'Coffee",
-  "short_name": "DevCoffee",
-  "start_url": "index.html",
-  "display": "standalone",
-  "background_color": "#fdfdfd",
-  "theme_color": "#db4938",
-  "orientation": "portrait-primary",
   "icons": [
     {
       "src": "/images/icons/demo-one/windows11/SmallTile.scale-100.png",
